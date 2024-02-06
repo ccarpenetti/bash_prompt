@@ -1,0 +1,16 @@
+
+PQSH> Added process "bin/worksim 3" to waiting queue.
+
+PQSH> Added process "bin/worksim 2" to waiting queue.
+
+PQSH> Added process "bin/worksim 1" to waiting queue.
+
+PQSH> Running =    0, Waiting =    0, Finished =    3, Turnaround = 04.61, Response = 02.36
+
+Finished Queue:
+   PID COMMAND                        ARRIVAL       START         END          
+2816266 bin/worksim 3                  1694120462.786162 1694120463.010412 1694120466.258101
+2816272 bin/worksim 2                  1694120463.448326 1694120466.258873 1694120468.507281
+2816273 bin/worksim 1                  1694120464.449845 1694120468.507843 1694120469.757244
+
+PQSH> 
